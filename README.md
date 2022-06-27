@@ -17,3 +17,5 @@ Porém com esse teste conseguimos verificar que temos somente 60% do teste concl
 ![alt text](https://github.com/MatheusDuarteBR/TesteDMutacao/blob/main/images/FixOfmutations.png)
 
 Após essa correção de código temos zero sobreviventes em nosso código ou seja o teste foi concluído.
+
+![alt text](https://github.com/MatheusDuarteBR/TesteDMutacao/blob/main/images/AfterAll.png)
