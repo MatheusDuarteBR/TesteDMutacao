@@ -1,6 +1,6 @@
-# Teste_De_Mutacao // Aula_Católica // Gerenciamento, Configuração e Processos de Software
+# Teste_De_Mutacao // Gerenciamento, Configuração e Processos de Software.
 
-Aqui temos o nosso código testado, um código simples que verifica que o usuário já pode tirar a cnh ou não pela idade do usuário.
+Aqui temos o nosso código que será testado, um código simples que verifica que o usuário já pode tirar a CNH ou não pela idade.
 
 ![alt text](https://github.com/MatheusDuarteBR/TesteDMutacao/blob/main/images/entrada.png)
 
